@@ -82,10 +82,10 @@ Use `trajectories.csv` as input for your ML model:
 ## Contributing
 This is a capstone project. For improvements, modify `b.ipynb` and test thoroughly.
 
-## License
-[Specify license if applicable, e.g., MIT]
+
 
 ## Acknowledgments
 - YOLOv8 by Ultralytics
 - Supervision library for tracking
+
 - OpenCV for video processing
